@@ -7,3 +7,4 @@ view markdown file directly
 # Usage
 - Serve md.htm amd "md" files online
 - Visit http://xxxxx/md.htm?src=test.md
+- Example: https://b.0-0.plus/blog/md.htm?src=https://raw.githubusercontent.com/microsoft/vscode/main/README.md
