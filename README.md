@@ -1,5 +1,5 @@
 # md.htm
-view markdown file directly
+An example of zeromd.js, embed markdown files in html, view markdown file directly
 
 # Reference
 - [zeromd.js](https://github.com/zerodevx/zero-md)
