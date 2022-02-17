@@ -10,4 +10,4 @@ An example of zeromd.js, embed markdown files in html, view markdown file direct
 ```
 http://xxxxx/md.htm?src=test.md
 ```
-- Example: https://b.0-0.plus/blog/md.htm?src=https://raw.githubusercontent.com/microsoft/vscode/main/README.md
+- Live Demo: https://zhlicen.gitub.io/blog/md.htm?src=https://raw.githubusercontent.com/microsoft/vscode/main/README.md
